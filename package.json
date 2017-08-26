@@ -1,0 +1,14 @@
+{
+  "name": "foodicon",
+  "version": "1.0.0",
+  "description": "Serve-favicon that serves foodicons if no icon is provided.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olli Kankare",
+  "license": "ISC",
+  "dependencies": {
+    "serve-favicon": "^2.4.3"
+  }
+}
