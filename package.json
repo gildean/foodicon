@@ -1,7 +1,7 @@
 {
   "name": "foodicon",
-  "version": "1.0.3",
-  "description": "Serve-favicon that serves foodicons if no icon is provided.",
+  "version": "1.0.4",
+  "description": "Wraps serve-favicon to serve foodicons if no icon is provided.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/gildean/foodicon.git"
   },
+  "keywords": [
+    "express",
+    "favicon",
+    "middleware",
+    "food"
+  ],
   "author": "Olli Kankare",
   "license": "ISC",
   "dependencies": {
