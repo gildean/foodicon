@@ -1,6 +1,6 @@
 {
   "name": "foodicon",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Serve-favicon that serves foodicons if no icon is provided.",
   "main": "index.js",
   "scripts": {
